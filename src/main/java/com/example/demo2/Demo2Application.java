@@ -12,7 +12,7 @@ public class Demo2Application {
 		// this is only for commenting purpose
 
 		// changes making 2
-		// Changes made for pulling 
+		// Changes made 
 	}
 
 }
